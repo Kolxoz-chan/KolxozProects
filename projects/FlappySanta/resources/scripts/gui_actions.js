@@ -37,5 +37,5 @@ scripts.exit_button = function()
 
 scripts.author_button = function()
 {
-    window.open("https://www.patreon.com/kolxoz")
+    window.open("https://vk.com/kolxoz_game_developer")
 }
